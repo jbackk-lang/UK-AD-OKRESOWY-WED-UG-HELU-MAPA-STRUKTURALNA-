@@ -232,3 +232,41 @@ Reszta to odcinki między skrętami.
 | 104–112 | Rf–Cn | superciężkie, krótkotrwałe jądra |
 | 113–117 | Nh–Ts | superciężkie, granica istnienia jąder |
 | 118 | Og | **skręt 3 – wyjście z materii, koniec układu** |
+
+
+## Diagram trzech skrętów Möbiusa
+
+Poniższy schemat pokazuje pełną strukturę materii jako taśmę Möbiusa
+z trzema punktami skrętu: He, Fe i Og.
+
+                     [ PRZED MATERIĄ ]
+                             |
+                             v
+                        (1) SKRĘT
+                           HELIUM
+                             He
+                             |
+                             v
+        ┌──────────────────────────────────────────┐
+        |      MATERIA NARASTAJĄCA (He → Fe)       |
+        |  Li → Be → B → C → N → ... → Mn → Fe     |
+        └──────────────────────────────────────────┘
+                             |
+                             v
+                        (2) SKRĘT
+                           ŻELAZO
+                             Fe
+                             |
+                             v
+        ┌──────────────────────────────────────────┐
+        |      MATERIA ROZPADAJĄCA SIĘ (Fe → Og)   |
+        |  Co → Ni → Cu → ... → Pb → ... → Ts      |
+        └──────────────────────────────────────────┘
+                             |
+                             v
+                        (3) SKRĘT
+                         OGANESSON
+                             Og
+                             |
+                             v
+                     [ WYJŚCIE Z MATERII ]
