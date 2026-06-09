@@ -65,3 +65,21 @@ Oganesson jest końcem klasycznej materii.
 Powłoki elektronowe przestają działać, jądra żyją mikrosekundy.
 To wyjście z materii – trzeci skręt Möbiusa.
 
+## Fundamenty modelu
+
+Model opiera się na założeniu, że materia nie rozwija się liniowo,
+lecz topologicznie. Pierwiastki nie są zbiorem przypadkowych liczb
+protonów i neutronów, lecz etapami przejścia między trzema punktami
+krytycznymi (skrętami):
+
+1. **He – wejście do materii**  
+   Stan poza zerem, brak klasycznej orientacji, idealna symetria.
+
+2. **Fe – maksimum stabilności**  
+   Najwyższa energia wiązania jąder, punkt równowagi struktury.
+
+3. **Og – wyjście z materii**  
+   Koniec klasycznej chemii, rozpad powłok i jąder.
+
+Między tymi punktami materia zmienia orientację, tworząc ciągi
+pierwiastków, które można czytać jak mapę, a nie jak tabelę.
