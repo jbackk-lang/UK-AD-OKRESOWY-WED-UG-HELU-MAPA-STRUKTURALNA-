@@ -272,3 +272,4 @@ z trzema punktami skrętu: He, Fe i Og.
                      [ WYJŚCIE Z MATERII ]
                      
 ![Diagram trzech skrętów](diagram.svg)
+![Diagram topologiczny He–Fe–Og](diagram_topologiczny.svg)
